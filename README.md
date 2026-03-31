@@ -82,6 +82,7 @@ Users can:
 
 ---
 
-## 👩‍💻 Author
+## Author
+Maseeha Dawood
+ST10451669
 
-Developed by a student as part of an Android Development coursework project.
